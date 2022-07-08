@@ -11,7 +11,7 @@ const data = [
 {
   id: 1,
   image:IMG1,
-  title: 'Crypto Currency Dashboard & Financial Visulaization',
+  title: 'React Tesla Clone Website',
   github: 'https://github.com',
   demo: 'https://dribbble.com/shots/16673715-Crypto-cuurency-dashboard-and-financial-data-visualization'
 },
@@ -27,7 +27,7 @@ const data = [
 {
   id: 3,
   image:IMG3,
-  title: 'Figma dashboard UI kit for data design web apps',
+  title: 'React Music Player App',
   github: 'https://github.com',                                                                                                            
   demo: 'https://dribbble.com/shots/16673715-Crypto-cuurency-dashboard-and-financial-data-visualization'
 },
@@ -35,25 +35,25 @@ const data = [
 {
   id: 4,
   image:IMG4,
-  title: 'Maintaining tasks and tracking progress',
-  github: 'https://github.com',
-  demo: 'https://dribbble.com/shots/16673715-Crypto-cuurency-dashboard-and-financial-data-visualization'
-},
-
-{
-  id: 5,
-  image:IMG5,
-  title: 'A PC keyboard based Janko keyboard',
+  title: 'A PC keyboard based Janko Keyboard',
   github: 'https://github.com/Dafirm/Janko-keyboard',
   demo: 'https://dafirm-janko-keyboard.netlify.app/'
 },
 
 {
+  id: 5,
+  image:IMG5,
+  title: 'React Blog site (upcoming project) ',
+  github: 'https://github.com/Dafirm/',
+  demo: 'https://github.com/Dafirm/'
+},
+
+{
   id: 6,
   image:IMG6,
-  title: 'Chart template & infographics in Figma',
-  github: 'https://github.com',
-  demo: 'https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-template-infographics-in-Figma'
+  title: 'Upcoming project space',
+  github: 'https://github.com/Dafirm/',
+  demo: 'https://github.com/Dafirm/'
 
 }
 ]
