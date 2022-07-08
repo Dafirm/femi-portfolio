@@ -1,7 +1,7 @@
 header{
     height: 100vh;
     padding-top: 5rem;
-    margin-bottom: 12rem;
+    margin-bottom: 10rem;
    
 }
 
@@ -40,8 +40,8 @@ header{
 
  /* ============ ME ===========*/
  .me img {
-    width: 25rem;
-    height: 25rem;
+    width: 20rem;
+    height: 20rem;
     position: absolute;
     left: calc(50% - 11rem);
     /*left: 50%;
