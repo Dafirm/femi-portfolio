@@ -36,12 +36,13 @@ header{
     width: 1px;
     height: 2rem;
    border-top: 1px solid var(--color-primary);
+   color: blue;
  }
 
  /* ============ ME ===========*/
  .me img {
-    width: 20rem;
-    height: 20rem;
+    width: 24rem;
+    height: 24rem;
     position: absolute;
     left: calc(50% - 11rem);
     /*left: 50%;
