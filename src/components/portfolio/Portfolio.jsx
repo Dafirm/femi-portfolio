@@ -5,7 +5,7 @@ import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+
 
 const data = [
 {
@@ -13,7 +13,7 @@ const data = [
   image:IMG1,
   title: 'React Tesla Clone Website',
   github: 'https://github.com',
-  demo: 'https://dribbble.com/shots/16673715-Crypto-cuurency-dashboard-and-financial-data-visualization'
+  demo: 'https://dafirm.github.io/tesla-clone-dafirm/'
 },
 
 {
@@ -29,7 +29,6 @@ const data = [
   image:IMG3,
   title: 'React Music Player App',
   github: 'https://github.com',                                                                                                            
-  demo: 'https://dribbble.com/shots/16673715-Crypto-cuurency-dashboard-and-financial-data-visualization'
 },
 
 {
@@ -48,14 +47,6 @@ const data = [
   demo: 'https://github.com/Dafirm/'
 },
 
-{
-  id: 6,
-  image:IMG6,
-  title: 'Upcoming project space',
-  github: 'https://github.com/Dafirm/',
-  demo: 'https://github.com/Dafirm/'
-
-}
 ]
 const Portfolio = () => {
   return (
