@@ -36,12 +36,12 @@ const About = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>8+ Completed</small>
+              <small>10+ Completed</small>
             </article>
           </div>
           <p>
             I am a passionate and goal oriented
-            Developer with a kin interest in creative coding.
+            Developer with kin interest in creative coding.
             Swift to learning new
             ideas and implementations to
             accomplish desired result.
