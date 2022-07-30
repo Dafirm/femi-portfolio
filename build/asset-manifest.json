@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/femi-portfolio/static/css/main.da137823.css",
-    "main.js": "/femi-portfolio/static/js/main.451d6cbe.js",
+    "main.js": "/femi-portfolio/static/js/main.ee0d7015.js",
     "static/media/Femi.png": "/femi-portfolio/static/media/Femi.126c5e0c920fad05b1d6.png",
     "static/media/femi2.png": "/femi-portfolio/static/media/femi2.f36ea9fe20a86af17465.png",
     "static/media/portfolio1.jpg": "/femi-portfolio/static/media/portfolio1.1877886b850ec4cc6600.jpg",
@@ -12,10 +12,10 @@
     "static/media/Dafirmlogo.png": "/femi-portfolio/static/media/Dafirmlogo.93160406258d86990dfa.png",
     "index.html": "/femi-portfolio/index.html",
     "main.da137823.css.map": "/femi-portfolio/static/css/main.da137823.css.map",
-    "main.451d6cbe.js.map": "/femi-portfolio/static/js/main.451d6cbe.js.map"
+    "main.ee0d7015.js.map": "/femi-portfolio/static/js/main.ee0d7015.js.map"
   },
   "entrypoints": [
     "static/css/main.da137823.css",
-    "static/js/main.451d6cbe.js"
+    "static/js/main.ee0d7015.js"
   ]
 }
