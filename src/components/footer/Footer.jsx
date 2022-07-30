@@ -21,17 +21,17 @@ const Footer = () => {
 
       <div className='footer__socials'>
         <a href= "https://www.instagram.com/ayanfe_oyeniyi/" target="_blank"><FiInstagram/></a>
-        <a href= "https://twitter.com/Dafirm_music" target='_blank'><IoLogoTwitter/></a>
-        <a href= "https://www.facebook.com/phemmy.oyeniyi" target='_blank' s>< FaFacebook/></a>
-        <a href='https://github.com/Dafirm' target="_blank"><FaGithub/></a>
-        <a href='http://linkedin.com/in/femi-oyeniyi-b38b36159' target="_blank"><BsLinkedin/></a>
+        <a href= "https://twitter.com/Dafirm_music" target="_blank"><IoLogoTwitter/></a>
+        <a href= "https://www.facebook.com/phemmy.oyeniyi" target="_blank" >< FaFacebook/></a>
+        <a href="https://github.com/Dafirm" target="_blank"><FaGithub/></a>
+        <a href="http://linkedin.com/in/femi-oyeniyi-b38b36159" target="_blank"><BsLinkedin/></a>
       </div>
 
       <div className='footer__copyright'>
-        <small>&copy;All right reserved 2022. Developed by Dafirm  </small>
+        <small>&copy;All right reserved 2022. Developed by Dafirm </small>
       </div>
     </footer>
   )
 }
 
-export default Footer
+export default Footer;
